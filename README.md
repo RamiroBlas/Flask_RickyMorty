@@ -1,4 +1,4 @@
-# api-maestro
+# API_Rick and Morty
 
 ### Content table
 
